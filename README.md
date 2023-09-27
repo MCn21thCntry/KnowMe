@@ -1,4 +1,4 @@
-Hi there 👋, I am Mehmet! I try to learn from everyone. Nice to meet you all if it's possible.
+**Hi there 👋, I am Mehmet! I try to learn from everyone. I'll be Nice to meet you all if it's possible. See you in five minutes or ten or ...🤠**
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning how to use my data knowledge and keep them fresh.
 - 💞️ I’m looking to collaborate on open-source projects.
