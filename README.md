@@ -1,7 +1,7 @@
-**Hi there 👋, I am Mehmet! I try to learn from everyone. I'll be Nice to meet you all if it's possible. See you in five minutes or ten or ...🤠**
+**Hi there 👋, This is Mehmet from Data Science World! I am here to share my insights in terms of data and improve my insights by looking for your data e-motion🤩. It would be Nice to meet you and Let's have an interaction. See you in five or ten or ...🤠**
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning how to use my data knowledge and keep them fresh.
-- 💞️ I’m looking to collaborate on open-source projects.
+- 🌱 I’m currently focusing on how to develop my knowledge and looking for a job.
+- 💞️ I’m looking forward to collaborating on open-source projects.
 - 📫 How to reach me:
   - 🤠[Linkedin](https://www.linkedin.com/in/685-mcn/)
 <!---
